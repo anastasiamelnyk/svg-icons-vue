@@ -1,0 +1,4 @@
+<linearGradient id="grey-to-pink">
+  <stop offset="20%" stop-color="#58627B" />
+  <stop offset="90%" stop-color="#ff8888" />
+</linearGradient>

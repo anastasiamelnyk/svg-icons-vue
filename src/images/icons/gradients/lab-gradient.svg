@@ -1,0 +1,5 @@
+<linearGradient id="lab-primary">
+  <stop class="stop1" offset="10%" stop-color="rgb(72, 61,65)" />
+  <stop class="stop2" offset="50%" stop-color="#e1d4d4" />
+  <stop class="stop3" offset="90%" stop-color="#ff8888" />
+</linearGradient>
